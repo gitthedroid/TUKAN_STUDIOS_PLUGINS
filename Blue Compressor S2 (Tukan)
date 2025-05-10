@@ -1145,7 +1145,7 @@ gfx_y = Left_Meter_Out.yIn*zoom - 4*zoom;
 gfx_drawstr("OUT L");
 gfx_x = Left_Meter_in.xIn*zoom;
 gfx_y = Right_Meter_Out.yIn*zoom - 4*zoom;
-gfx_drawstr("OUT L");
+gfx_drawstr("OUT R");
 
 gfx_x = Left_Meter_in.xIn*zoom;
 gfx_y = GR_Meter.yIn*zoom - 1*zoom;
